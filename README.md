@@ -21,3 +21,5 @@ In the server side create .env file and put this code inside it.
 
 ## Google Application Creation
 Before using passport-google-oauth20, you must register an application with Google. If you have not already done so, a new project can be created in the [Google Developers Console](https://console.developers.google.com/). Your application will be issued a client ID and client secret, which need to be provided to the strategy. You will also need to configure a redirect URI which matches the route in your application.
+
+To know more about the passport google oauth20 documentation visit [passport-google-oauth20](https://www.passportjs.org/packages/passport-google-oauth20/)
